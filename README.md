@@ -19,4 +19,6 @@ This project provides a simple solution for automatic resizing and DPI-aware sca
 
 ## Screenshot
 
-(put screenshots here)
+<img width="1591" height="901" alt="image" src="https://github.com/user-attachments/assets/ef0007a1-ab9a-469e-9306-a74af86cc8b9" />
+<img width="1595" height="893" alt="image" src="https://github.com/user-attachments/assets/5707d84c-9d66-4191-b360-8b371e73775b" />
+
